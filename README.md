@@ -44,8 +44,11 @@
         <p>Check out the complete implementation on GitHub: 
             <a href="https://github.com/Mokshitha1303/HOG-Histogram-of-Oriented-Gradients-/blob/main/HOG.ipynb" target="_blank">GitHub Repository</a>
         </p>
-      
-
+     
+<h2>Output</h2>
+        <p>Check output on GitHub: 
+            <a href=" https://github.com/Mokshitha1303/HOG-Histogram-of-Oriented-Gradients-/blob/main/Output.md" target="_blank">Output image</a>
+        </p>
    
    </div>
 
