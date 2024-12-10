@@ -45,8 +45,8 @@
             <a href="https://github.com/Mokshitha1303/HOG-Histogram-of-Oriented-Gradients-/blob/main/HOG.ipynb" target="_blank">GitHub Repository</a>
         </p>
    <h2>Output </h2>     
- <a href="![HOG](https://github.com/user-attachments/assets/7442dc75-7060-4cf2-a4be-830d2a21b99e)
-" target="_blank">Output Image Link</a>
+"![HOG](https://github.com/user-attachments/assets/7442dc75-7060-4cf2-a4be-830d2a21b99e)
+" target="_blank"
    
    </div>
 
